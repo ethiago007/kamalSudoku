@@ -1,0 +1,21 @@
+# SITE NAME
+SUDOKU VALIDATOR
+# NAME OF CONTRIBUTORS
+MOHAMMED KAMALDEEN
+## BRIEF DESCRIPTION OF THE PROJECT
+It's a webpage that validates sudoku code
+## TECHNOLOGIES USED
+* HTML
+* CSS
+* BOOTSTRAP
+* Javascript
+* jquery
+## LONGER DESCRIPTION OF THE PROJECT
+
+### KNOWN BUGS
+
+## WEBPAGE LINK
+
+## CONTACT INFORMATION
+* +2349064252791 (calls and WhatsApp)
+* mohammedkamaldeen204@gmail.com
